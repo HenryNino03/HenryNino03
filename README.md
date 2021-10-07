@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HenryNino03
 - 👀 I want to gain experience as a developer finding my first developer job
-        in order to contribute to the development of applications that promote tourism in my region and generate interest in it.
 - 🌱 I’m currently learning Python and Django at the National University of Colombia 
 - 💞️ I’m looking to collaborate on a team to share my experience, meet new people and to grow as a developer
 - 📫 E-mail me at ing.davidnino@gmail.com

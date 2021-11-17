@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HenryNino03
-- 👀 I want to gain experience as a developer finding my first developer job
-- 🌱 I’m currently learning Python and Django at the National University of Colombia 
+- 👀 I want to gain experience as a developer.
+- 🌱 I have skills in Python, Django,Vue,Heroku,Java,SQL,MongoDB among others 
+- 🌱 I'm an Industrial Engineer and recently did an 800 hundreds hours bootcamp at the National University of Colombia. 
 - 💞️ I’m looking to collaborate on a team to share my experience, meet new people and to grow as a developer
 - 📫 E-mail me at ing.davidnino@gmail.com
 

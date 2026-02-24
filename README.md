@@ -1,4 +1,4 @@
 - Senior Engineer
-- Software Developer at Baldwin Supply Co.
+- Software Developer.
 - .Net Developer. Knowledge in C#, JavaScript, Java, C++, MS SQL, Mongo DB, Internet Information Services IIS, MVC, SCRUM.
 - Automatization of Epicor Prophet 21 ERP Software.
